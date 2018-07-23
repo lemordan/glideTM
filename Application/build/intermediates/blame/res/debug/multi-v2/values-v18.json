@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jacqueslemordant/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/jacqueslemordant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6cb77c393fdd686c100515a6a28b9912/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
